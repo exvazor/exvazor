@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @exvazor
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning html css js
-- ▶️ <a href="#">Youtube</href>
-- 📫 How to reach me ...
+- ▶️ <a href="https://youtube.com/channel/UC_MQe6xk9I9n6ph68v5rq7A">Youtube Channel</href>
 
 <!---
 exvazor/exvazor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
