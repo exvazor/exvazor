@@ -20,7 +20,7 @@
     a teen who dreams of becoming a developer and coder on the internet.
     <h3>Still learning </h3>
     <a href="https://skillicons.dev">
-        <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=html,js,nodejs,ts,php&perline=5">
+        <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,ts&perline=6">
     </a>
     <h3>Other Stuff</h3>
     <a href="https://skillicons.dev">
@@ -36,6 +36,8 @@
     <a href="#">
         <img src="https://youtube-stats-card.vercel.app/api?channelid=UC_MQe6xk9I9n6ph68v5rq7A&layout=extruded&title_color=AED24E&icon_color=AED24E&text_color=ffffff&bg_color=000000"/>
     </a>
+    <a href="https://discord.com/users/773044016023076865">
+        <img src="https://lanyard.cnrad.dev/api/773044016023076865?bg=000000&borderRadius=12px&animated=true&idleMessage=zZzZ&showDisplayName=true" />
 </div>
 
 <br/>
