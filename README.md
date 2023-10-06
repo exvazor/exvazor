@@ -37,7 +37,12 @@
         <img src="https://youtube-stats-card.vercel.app/api?channelid=UC_MQe6xk9I9n6ph68v5rq7A&layout=extruded&title_color=AED24E&icon_color=AED24E&text_color=ffffff&bg_color=000000"/>
     </a>
     <a href="https://discord.com/users/773044016023076865">
-        <img src="https://lanyard.cnrad.dev/api/773044016023076865?bg=000000&borderRadius=12px&animated=true&idleMessage=zZzZ&showDisplayName=true" />
+            <picture width="45" height="45">
+                <source srcset="https://cdn.simpleicons.org/discord/FFF" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://cdn.simpleicons.org/discord/000" media="(prefers-color-scheme: light)" />
+                <img alt="Discord" src="https://cdn.simpleicons.org/discord/FFF" width="45" />
+            </picture>
+        </a>
 </div>
 
 <br/>
