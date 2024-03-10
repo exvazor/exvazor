@@ -20,7 +20,7 @@
     a teen who dreams of becoming a developer and coder on the internet.
     <h3>Still learning </h3>
     <a href="https://skillicons.dev">
-        <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,ts&perline=6">
+        <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=html,css,js,php,python&perline=6">
     </a>
     <h3>Other Stuff</h3>
     <a href="https://skillicons.dev">
