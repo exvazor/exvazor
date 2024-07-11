@@ -10,9 +10,6 @@
         <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fpronoundb.org%2Fshields%2F614b68364828524b8a3a121f&style=for-the-badge&labelColor=%23000000&color=%23AED24E">
     </a>
     &nbsp;
-    <a href="https://en.wikipedia.org/wiki/Ages_of_consent_by_country">
-        <img src="https://img.shields.io/badge/age-17-AED24E?style=for-the-badge&labelColor=000000">
-    </a>
 </div>
 
 <div align="center">
